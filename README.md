@@ -1,2 +1,3 @@
 # LEDcode
-LED code for arduinos
+Arduino code for LED displays
+
